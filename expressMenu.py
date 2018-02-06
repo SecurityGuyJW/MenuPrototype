@@ -54,6 +54,7 @@ def main():
     except getopt.GetoptError as err:
         print(str(err))
         usrMSG()
+        sys.exit(0)
 
     for o, a in opts:
         if o in ("-a", "--apple"):
