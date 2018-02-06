@@ -1,3 +1,20 @@
+##########################################################################################################
+#                                                                                                        #
+# 1. create a basic menu capaple of imitating console inputs to do some work.                            #
+#                                                                                                        #
+#    a. Type python and expressMenu along with a few commands.                                           #
+#                                                                                                        #
+#    b. EX: python expressMenu.py -a -b -g                                                               #
+#                                                                                                        #
+#                                                                                                        #
+# 2. If you type a wrong command it will terminate the program and give you a set of instructions        #
+#                                                                                                        #
+# 3. The script was built with the intention of being run like common networking tools                   #
+#                                                                                                        #
+# 4. The scrip outputs the names of fruit, this will be used as a template for future projects.          #
+#                                                                                                        #
+##########################################################################################################
+
 import sys
 import getopt
 
