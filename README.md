@@ -22,13 +22,13 @@ To create a menu template for furute projects and to learn about the sys and get
 
 5. Example. 
 
-          a. python expressMenu -a -b -g
+          a. python expressMenu.py -a -b -g
           
-          a. python expressMenu -a --apple
+          a. python expressMenu.py -a --apple
           
-          a. python expressMenu -g -b
+          a. python expressMenu.py -g -b
           
-          a. python expressMenu -apple -bannana
+          a. python expressMenu.py -apple -bannana
           
 6. An incorrect input will be graced with a menu and a script termination.
 
