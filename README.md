@@ -4,7 +4,7 @@ Express Menu
 
 ## Goal
 
-To create a menu template for furute projects and to learn about the sys and getopt librarys
+To create a menu template for future projects and to learn about the sys and getopt librarys
 
 ### Prerequisites
 
